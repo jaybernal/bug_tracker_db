@@ -1,0 +1,5 @@
+host: 'localhost'
+adapter: 'postgresql'
+database: 'bug-tracker' ####this needs to be changed when creating a new DB
+encoding: 'utf8'
+pool: 5
