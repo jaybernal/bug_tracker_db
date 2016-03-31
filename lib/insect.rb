@@ -1,4 +1,3 @@
-class Insect < ActiveRecord::Base
 
-
+class Insect <ActiveRecord::Base
 end
